@@ -60,12 +60,12 @@ def solve(repositories,extensions):
         lines = [[int(line.split()[0]),line.split()[1]] for line in lines];
 
         for line in lines:
-            if (line[0] > 250): continue;
+            # if (line[0] > 250): continue;
             # 4: Optional, this doesn't count any files above 250 lines becuase
             # most dependency files like StdDraw.java are above 250 lines and you probably don't want to add
             # these files to your line count as you yourself did not create them. You can remove this if you want.
 
-            if ("Std" in line[1]): continue;
+            # if ("Std" in line[1]): continue;
             # 5: Optional, only include if you have some files like StdDraw.java
             # that aren't yours and you don't want to count those files.
             # You can remove this if you want.
