@@ -11,7 +11,7 @@
 .jpg:         188619 lines
 .js:             173 lines
 .md:             341 lines
-.nlogo:        19977 lines
+.nlogo:        17664 lines
 .out:             40 lines
 .pdf:          37291 lines
 .png:         177201 lines

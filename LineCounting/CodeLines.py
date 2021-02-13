@@ -15,7 +15,7 @@ def main():
     # the repositories you want to check for. Make sure these repositories are all in the same folder.
     # For example: ~/Github/(All your reppositories are here) -> Add all the names from this folder to the list.
 
-    extensions = [".cpp",".css",".html",".java",".js",".py",".rkt",".rs"];
+    extensions = [".cpp",".css",".html",".java",".js",".nlogo",".py",".rkt",".rs"];
     # 1: This is a list of file extensions that you want to check for. Change this list to include the
     # file endings of coding languages you want to check for.
     # For example: I want to count c++, python, and java lines so I will add ".cpp", ".py", and ".java" to the list.
@@ -60,12 +60,13 @@ def solve(repositories,extensions):
         lines = [[int(line.split()[0]),line.split()[1]] for line in lines];
 
         for line in lines:
-            # if (line[0] > 250): continue;
-            # 4: Optional, this doesn't count any files above 250 lines becuase
-            # most dependency files like StdDraw.java are above 250 lines and you probably don't want to add
-            # these files to your line count as you yourself did not create them. You can remove this if you want.
+            if (line[0] > 10000): continue;
+            # 4: Optional, this doesn't count any files above 10000 lines becuase
+            # most of your files arent above 10000 lines and you probably don't want to add
+            # files that you didn't make to your line count as you dont want to skew results.
+            # You can remove this if you want.
 
-            # if ("Std" in line[1]): continue;
+            if ("Std" in line[1]): continue;
             # 5: Optional, only include if you have some files like StdDraw.java
             # that aren't yours and you don't want to count those files.
             # You can remove this if you want.
