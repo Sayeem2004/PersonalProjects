@@ -9,7 +9,7 @@ import os;
 # You can also check "Repositories" to see the raw data.
 
 def main():
-    repositories = ["AdventOfCode","Algebra2","APCS","AtCoder","CodeForces","CodeJam","CodingBat","CSES","IntroCS","Kattis","KickStart","LIT","MBIT","NoctemVirtual","Personal","Test","Usaco","UsacoTrain"];
+    repositories = ["AdventOfCode","Algebra2","APCS","AtCoder","BWSI","CodeForces","CodeJam","CodingBat","CSES","IntroCS","Kattis","KickStart","LIT","MBIT","NoctemVirtual","Personal","Test","Usaco","UsacoTrain"];
     # 0: This is a list of repository names that you want to count. Change this list to include
     # the repositories you want to check for. Make sure these repositories are all in the same folder.
     # For example: ~/Github/(All your reppositories are here) -> Add all the names from this folder to the list.

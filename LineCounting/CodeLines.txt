@@ -4,6 +4,6 @@
 .java:   10199 lines
 .js:       173 lines
 .nlogo:  17664 lines
-.py:      9093 lines
+.py:      9540 lines
 .rkt:        5 lines
 .rs:        72 lines
