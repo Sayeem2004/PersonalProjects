@@ -1,7 +1,27 @@
        1 .gitignore
-      96 LineCounting/CodeLines.py
+      89 LineCounting/CodeLines.py
        9 LineCounting/CodeLines.txt
-      73 LineCounting/TotalLines.py
+     440 LineCounting/Repositories/APCS.txt
+     217 LineCounting/Repositories/AdventOfCode.txt
+      10 LineCounting/Repositories/Algebra2.txt
+      13 LineCounting/Repositories/AtCoder.txt
+      67 LineCounting/Repositories/BWSI.txt
+      66 LineCounting/Repositories/CSES.txt
+     158 LineCounting/Repositories/CodeForces.txt
+       5 LineCounting/Repositories/CodeJam.txt
+     288 LineCounting/Repositories/CodingBat.txt
+     134 LineCounting/Repositories/IntroCS.txt
+      69 LineCounting/Repositories/Kattis.txt
+       9 LineCounting/Repositories/KickStart.txt
+      44 LineCounting/Repositories/LIT.txt
+      11 LineCounting/Repositories/MBIT.txt
+      12 LineCounting/Repositories/NoctemVirtual.txt
+      68 LineCounting/Repositories/Personal.txt
+       7 LineCounting/Repositories/PersonalProjects.txt
+       3 LineCounting/Repositories/Topographically-Best-Path.txt
+      81 LineCounting/Repositories/Usaco.txt
+       3 LineCounting/Repositories/UsacoTrain.txt
+      66 LineCounting/TotalLines.py
       24 LineCounting/TotalLines.txt
        5 README.md
-     208 total
+    1899 total

@@ -110,6 +110,12 @@
       14 Assignments/March/A10/Flippable/Coin.java
       95 Assignments/March/A10/Flippable/CoinsClient.java
       12 Assignments/March/A10/Flippable/Flippable.java
+      51 Assignments/March/A11/A11.txt
+      51 Assignments/March/A11/Matching/Matching.java
+     670 Assignments/March/A11/Matching/StdIn.java
+     313 Assignments/March/A11/Matching/StdOut.java
+      91 Assignments/March/A12/A12.txt
+      50 Assignments/March/A12/PostScript/PostScript.java
       50 Assignments/March/A9/Simulator/Animal.java
       24 Assignments/March/A9/Simulator/Bear.java
       24 Assignments/March/A9/Simulator/Fish.java
@@ -271,7 +277,6 @@
      533 Lessons/February/L2/FunctionGraph/StdStats.java
      243 Lessons/February/L2/L2.txt
       26 Lessons/February/L3/L3.txt
-      26 Lessons/February/L4/L4.txt
      202 Lessons/January/L32/ArrList/ArrList.java
      217 Lessons/January/L32/L32.txt
      180 Lessons/January/L33/ArrListMethods/ArrListMethods.java
@@ -295,6 +300,13 @@
        3 Lessons/March/L4/Test/Interface1.java
       12 Lessons/March/L4/Test/R.java
       36 Lessons/March/L4/Test/Test.java
+     368 Lessons/March/L5/L5.txt
+      51 Lessons/March/L5/Matching/Matching.java
+     670 Lessons/March/L5/Matching/StdIn.java
+     313 Lessons/March/L5/Matching/StdOut.java
+      38 Lessons/March/L5/ReverseWithStack/ReverseWithStack.java
+     670 Lessons/March/L5/ReverseWithStack/StdIn.java
+     313 Lessons/March/L5/ReverseWithStack/StdOut.java
       26 Lessons/November/L15/AddInts/AddInts.java
        1 Lessons/November/L15/AddInts/AddIntsIO.txt
      670 Lessons/November/L15/AddInts/StdIn.java
@@ -437,4 +449,4 @@
      313 StdDependencyFiles/StdIO/StdOut.java
       81 StdDependencyFiles/StopWatch/Stopwatch.java
       49 StdDependencyFiles/StopWatch/StopwatchCPU.java
-  870181 total
+  873804 total

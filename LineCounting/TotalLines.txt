@@ -7,7 +7,7 @@
 .html:         89502 lines
 .in:         4366742 lines
 .ipynb:        22322 lines
-.java:         75694 lines
+.java:         78833 lines
 .jpg:         188619 lines
 .js:             173 lines
 .md:             390 lines
@@ -16,9 +16,9 @@
 .out:             40 lines
 .pdf:          37672 lines
 .png:         177777 lines
-.py:           10776 lines
+.py:           10762 lines
 .pyc:             75 lines
 .rkt:              5 lines
 .rs:              72 lines
-.txt:         740641 lines
+.txt:         742830 lines
 .wav:          26638 lines
