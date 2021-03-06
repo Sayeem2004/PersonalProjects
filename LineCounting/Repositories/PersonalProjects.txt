@@ -1,0 +1,7 @@
+       1 .gitignore
+      96 LineCounting/CodeLines.py
+       9 LineCounting/CodeLines.txt
+      73 LineCounting/TotalLines.py
+      24 LineCounting/TotalLines.txt
+       5 README.md
+     208 total

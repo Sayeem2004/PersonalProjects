@@ -1,0 +1,13 @@
+       1 .gitignore
+      32 Contests/abc170/A.cpp
+      34 Contests/abc170/B.cpp
+      28 Contests/abc172/A.cpp
+      34 Contests/abc172/B.cpp
+      27 Contests/abc172/C.cpp
+      40 Contests/abc175/A.cpp
+      29 Contests/abc176/A.cpp
+      36 Contests/abc176/B.cpp
+      29 Contests/practice/A.cpp
+      26 Contests/practice/B.cpp
+       8 README.md
+     324 total

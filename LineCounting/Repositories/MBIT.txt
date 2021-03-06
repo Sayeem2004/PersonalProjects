@@ -1,0 +1,11 @@
+       1 .gitignore
+      26 November2020/Advanced/1.cpp
+     109 November2020/Advanced/2.cpp
+      44 November2020/Advanced/3.cpp
+      30 November2020/Advanced/4.cpp
+      39 November2020/Advanced/6.cpp
+    9106 November2020/Advanced/Problems.pdf
+      10 November2020/Standard/1.cpp
+    4563 November2020/Standard/Problems.pdf
+      12 README.md
+   13940 total

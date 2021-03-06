@@ -1,9 +1,9 @@
-.cpp:    11401 lines
+.cpp:    11398 lines
 .css:      244 lines
 .html:    1745 lines
-.java:   10199 lines
+.java:   11157 lines
 .js:       173 lines
 .nlogo:  17664 lines
-.py:      9540 lines
+.py:     10776 lines
 .rkt:        5 lines
 .rs:        72 lines

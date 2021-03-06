@@ -3,18 +3,20 @@ import os;
 # First create a folder, it can be any name, lets call it "LineCounting".
 # Move this python program to "LineCounting".
 # Then create a subfolder in "LineCounting" called "Repositories", you can not change this name.
-# Then change comments 0-2 below as they instruct.
+# Then change comment 0 below as it instructs.
 # Run the program and it should create "TotalLines.txt".
 # Open this to see your line counts.
 # You can also check "Repositories" to see the raw data.
 
 def main():
-    repositories = ["AdventOfCode","Algebra2","APCS","AtCoder","BWSI","CodeForces","CodeJam","CodingBat","CSES","IntroCS","Kattis","KickStart","LIT","MBIT","NoctemVirtual","Personal","Test","Usaco","UsacoTrain"];
-    # 0: This is a list of repository names that you want to count. Change this list to include
-    # the repositories you want to check for. Make sure these repositories are all in the same folder.
-    # For example: ~/Github/(All your reppositories are here) -> Add all the names from this folder to the list.
+    path = "/Users/Najmoon/GitHub";
+    # 0: Absolute path to your folder with all your cloned repositories.
+    # For example: All my cloned repositories are in /Users/Najmoon/GitHub/(repositories are here).
+    # So I will make path = "/Users/Najmoon/GitHub";
+    repositories = os.listdir(path);
+    cwd = os.getcwd();
 
-    dict = solve(repositories);
+    dict = solve(repositories,path,cwd);
     fout = open("TotalLines.txt","w");
 
     st = []
@@ -32,21 +34,12 @@ def main():
         out += " lines\n"
         fout.write(out);
 
-def solve(repositories):
+def solve(repositories,path,cwd):
     dict = {};
 
     for repository in repositories:
-        a = "~/GitHub"
-        # 1: Absolute path to your folder with all your cloned repositories.
-        # For example: All my cloned repositories are in ~/GitHub/(repositories are here).
-        # So I will make a = "~/GitHub";
-
-        b = "~/CodingFolder/LineCounting"
-        # 2: Absolute path to the folder this python file is in, example is shown.
-        # For example: This python file is in ~/CodingFolder/LineCounting/(file is in here).
-        # So I will make b = "~/CodingFolder/LineCounting".
-
-        os.system("cd " + a + "/" + repository + " && git ls-files | xargs wc -l > " + b + "/Repositories/" + repository+".txt");
+        if ("DS_Store" in repository): continue;
+        os.system("cd " + path + "/" + repository + " && git ls-files | xargs wc -l > " + cwd + "/Repositories/" + repository+".txt");
         fin = open("Repositories/"+repository+".txt","r");
 
         lines = fin.read().split("\n")[:-2];

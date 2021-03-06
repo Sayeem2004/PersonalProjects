@@ -1,0 +1,12 @@
+       1 .gitignore
+     155 July2020/NoctemResults.png
+     487 July2020/Problems/Noctem_Virtual_Problems.pdf
+     828 July2020/Solutions/1.cpp
+      30 July2020/Solutions/2.cpp
+      34 July2020/Solutions/3.cpp
+      41 July2020/Solutions/4.cpp
+      54 July2020/Solutions/5.cpp
+      36 July2020/Solutions/6.cpp
+      48 July2020/Solutions/7.cpp
+      12 README.md
+    1726 total

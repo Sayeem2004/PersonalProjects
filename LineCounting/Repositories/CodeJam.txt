@@ -1,0 +1,5 @@
+       1 .gitignore
+      27 2016/QualificationRound/CountingSheep.cpp
+      20 2019/QualificationRound/YouCanGoYourOwnWay.cpp
+       8 README.md
+      56 total

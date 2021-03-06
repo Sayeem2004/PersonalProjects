@@ -1,0 +1,9 @@
+       1 .gitignore
+      34 2017/B/MathEncoder.cpp
+      27 2020/A/Allocation.cpp
+      21 2020/B/BikeTour.cpp
+      20 2020/B/BusRoutes.cpp
+      28 2020/C/Countdown.cpp
+      29 2020/C/PerfectSubarray.cpp
+       8 README.md
+     168 total

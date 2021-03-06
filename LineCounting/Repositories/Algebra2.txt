@@ -1,0 +1,10 @@
+       1 .gitignore
+     345 AnimationProject/Final(P).py
+      28 AnimationProject/FirstExample(P).py
+     136 AnimationProject/MathProject(P).py
+     141 AnimationProject/random(P).py
+     476 AnimationProject/sterr(P).py
+     581 AnimationProject/sterr.py
+     558 AnimationProject/sterrproj.py
+       9 README.md
+    2275 total
