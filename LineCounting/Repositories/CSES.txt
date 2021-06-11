@@ -11,6 +11,8 @@
       25 DynamicProgramming/1744.cpp
       41 DynamicProgramming/1746.cpp
       30 DynamicProgramming/2413.cpp
+      17 Geometry/2189.cpp
+      24 Geometry/2191.cpp
       43 GraphAlgorithms/1192.cpp
       17 IntroductoryProblems/1068.cpp
       23 IntroductoryProblems/1069.cpp
@@ -63,4 +65,4 @@
       22 SortingAndSearching/1660.cpp
       22 SortingAndSearching/1661.cpp
       24 SortingAndSearching/2183.cpp
-    2228 total
+    2269 total

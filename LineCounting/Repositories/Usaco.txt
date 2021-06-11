@@ -70,6 +70,13 @@
        2 2020/January/Bronze/word/word.in
        6 2020/January/Bronze/word/word.out
       16 2020/January/SCORES.md
+      16 2021/February/SCORES.md
+      56 2021/February/Silver/comfortablecows/comfortablecows.cpp
+      21 2021/February/Silver/comfortablecows/sample.txt
+      59 2021/February/Silver/greenenough/greenenough.cpp
+       7 2021/February/Silver/greenenough/sample.txt
+       0 2021/February/Silver/yearofcow/sample.txt
+      28 2021/February/Silver/yearofcow/yearofcow.cpp
       16 2021/January/SCORES.md
       41 2021/January/Silver/dance/dance.cpp
       12 2021/January/Silver/dance/sample.txt
@@ -77,5 +84,10 @@
        8 2021/January/Silver/paint/sample.txt
        8 2021/January/Silver/spaced/sample.txt
       29 2021/January/Silver/spaced/spaced.cpp
+      16 2021/March/SCORES.md
+      96 2021/March/Silver/abcs/abcs.cpp
+      33 2021/March/Silver/abcs/sample.txt
+      11 2021/March/Silver/acowdemia/sample.txt
+      11 2021/March/Silver/maze/sample.txt
       10 README.md
-    1238 total
+    1592 total

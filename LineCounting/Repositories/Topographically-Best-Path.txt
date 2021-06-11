@@ -1,3 +1,0 @@
-       1 .gitignore
-       0 README.md
-       1 total

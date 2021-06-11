@@ -10,6 +10,8 @@ import os;
 # You can also check "Repositories" to see the raw data.
 
 def main():
+    if not os.path.exists("Repositories"):
+        os.makedirs("Repositories")
     path = "/Users/Najmoon/GitHub";
     # 0: Absolute path to your folder with all your cloned repositories.
     # For example: All my cloned repositories are in /Users/Najmoon/GitHub/(repositories are here).

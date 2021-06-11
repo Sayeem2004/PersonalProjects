@@ -1,0 +1,13 @@
+       1 .gitignore
+       9 May2021/Contest/1.cpp
+      19 May2021/Contest/2.cpp
+       9 May2021/Contest/3.cpp
+      74 May2021/Contest/4.cpp
+      10 May2021/Contest/5.cpp
+      62 May2021/Contest/6.cpp
+      47 May2021/Contest/7.cpp
+      20 May2021/Contest/8.cpp
+      13 May2021/Practice/1.cpp
+      10 May2021/Scores.md
+       9 README.md
+     283 total
